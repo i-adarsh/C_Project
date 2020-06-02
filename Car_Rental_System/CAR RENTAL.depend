@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1583649059 source:/Users/adarshkumar/Documents/C 2020 Project/CAR RENTAL/car.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"car.h"
+	"conio.h"
+	<termios.h>
+	<unistd.h>
+
+1583649040 /Users/adarshkumar/Documents/C 2020 Project/CAR RENTAL/car.h
+	<time.h>
+	<termios.h>
+	<unistd.h>
+
+1583648634 source:/Users/adarshkumar/Documents/C 2020 Project/CAR RENTAL/main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio.h"
+	<termios.h>
+	<unistd.h>
+
+1580793682 source:/Users/adarshkumar/Documents/C 2020 Project/CAR RENTAL/conio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"car.h"
+	<termios.h>
+	<unistd.h>
+
+1580793682 /Users/adarshkumar/Documents/C 2020 Project/CAR RENTAL/conio.h
+
